@@ -1,4 +1,4 @@
-# Legit Monorepo
+# aegit Monorepo
 
 ### Meet Legit SDK — fail-safe apps made simple.
 
