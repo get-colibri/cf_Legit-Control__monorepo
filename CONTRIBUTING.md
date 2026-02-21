@@ -13,7 +13,7 @@ pnpm changeset
 
 This will prompt you to:
 
-1. asdsdSelect the packages affected by your changes.
+1. asdsdasdadSelect the packages affected by your changes.
 1. Choose a bump type:
 - `patch` → bug fixes, small improvements
 - `minor` → new features, backwards-compatible
